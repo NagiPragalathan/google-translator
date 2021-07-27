@@ -1,2 +1,2 @@
 # google-translator
-making google translator using python
+making simple google translator using python
